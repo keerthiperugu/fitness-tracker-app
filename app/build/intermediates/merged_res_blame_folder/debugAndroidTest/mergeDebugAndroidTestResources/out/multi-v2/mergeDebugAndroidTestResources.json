@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.easyfitness.test.app-debugAndroidTest-3:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\keert\\StudioProjects\\Fitness-Tracker\\app\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "161,258",
+                        "endColumns": "52,78",
+                        "endOffsets": "209,332"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,78",
+                        "endOffsets": "103,182"
+                    }
+                }
+            ]
+        }
+    ]
+}

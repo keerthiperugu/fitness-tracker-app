@@ -1,0 +1,466 @@
+[
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_introfragment_newprofile.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/introfragment_newprofile.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_web_hi_res_512.png.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/web_hi_res_512.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable-xxxhdpi_ic_calf_measure.png.flat",
+        "source": "com.easyfitness.app-main-55:/drawable-xxxhdpi/ic_calf_measure.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_tab_program_runner.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/tab_program_runner.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_tab_about.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/tab_about.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_tab_program_list.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/tab_program_list.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.easyfitness.app-main-55:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_list_alt.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_list_alt.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_row_fonte.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/row_fonte.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_skip_next.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_skip_next.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_settings.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable-xhdpi_idea_hi_res_485.png.flat",
+        "source": "com.easyfitness.app-main-55:/drawable-xhdpi/idea_hi_res_485.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_bodypart_row.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/bodypart_row.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_pause.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_person.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_tab_graph.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/tab_graph.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable-xhdpi_web_hi_res_512.png.flat",
+        "source": "com.easyfitness.app-main-55:/drawable-xhdpi/web_hi_res_512.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable-xxxhdpi_ic_chest.png.flat",
+        "source": "com.easyfitness.app-main-55:/drawable-xxxhdpi/ic_chest.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_tab_weight.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/tab_weight.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_tab_history.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/tab_history.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_edittext_selector.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/edittext_selector.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_fade_blue.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/fade_blue.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_tab_bodytracking.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/tab_bodytracking.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_save.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_save.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_drawer_photo_camera.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_drawer_photo_camera.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_tab_profile.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/tab_profile.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_add.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_round_button.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/round_button.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/menu_profile_actions.xml.flat",
+        "source": "com.easyfitness.app-main-55:/menu/profile_actions.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable-xxxhdpi_ic_waist_measure.png.flat",
+        "source": "com.easyfitness.app-main-55:/drawable-xxxhdpi/ic_waist_measure.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_exam.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_exam.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_tab_program_details.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/tab_program_details.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_profile.png.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/profile.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_bathroom_scale.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_bathroom_scale.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_help_outline.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_help_outline.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_time_picker_widget.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/time_picker_widget.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_radio_button.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/radio_button.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_cross_inactive.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_cross_inactive.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_graph_view.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/graph_view.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/menu_main_activity_actions.xml.flat",
+        "source": "com.easyfitness.app-main-55:/menu/main_activity_actions.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_custom_spinner_item.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/custom_spinner_item.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_back.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_bodymeasure_rowheader.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/bodymeasure_rowheader.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_dialog_chrono.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/dialog_chrono.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_bodytracking_details_fragment.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/bodytracking_details_fragment.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_edit.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_dialog_rest.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/dialog_rest.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_dialog_record_editor.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/dialog_record_editor.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_program_history_row.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/program_history_row.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_add_multiple.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_add_multiple.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_program_row.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/program_row.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_exercise_pager.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/exercise_pager.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_exercise_details.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/exercise_details.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_singlevalueinput_view.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/singlevalueinput_view.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/menu_machine_details_menu.xml.flat",
+        "source": "com.easyfitness.app-main-55:/menu/machine_details_menu.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable-xhdpi_bench_hi_res_512.png.flat",
+        "source": "com.easyfitness.app-main-55:/drawable-xhdpi/bench_hi_res_512.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_workoutvaluesinput_view.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/workoutvaluesinput_view.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_activity_main.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_exercise_list_row.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/exercise_list_row.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_info_outline.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_info_outline.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_filter_list.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_filter_list.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_skip_previous.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_skip_previous.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_gym_bench_50dp.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_gym_bench_50dp.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable-xxxhdpi_ic_arm_measure.png.flat",
+        "source": "com.easyfitness.app-main-55:/drawable-xxxhdpi/ic_arm_measure.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable-xxxhdpi_ic_hip_measure.png.flat",
+        "source": "com.easyfitness.app-main-55:/drawable-xxxhdpi/ic_hip_measure.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_expand_more.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_expand_more.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_calorie_spinner_selected.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/calorie_spinner_selected.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_replay_white.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_replay_white.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_training_50dp.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_training_50dp.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/xml_settings2.xml.flat",
+        "source": "com.easyfitness.app-main-55:/xml/settings2.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable-xxxhdpi_ic_arm.png.flat",
+        "source": "com.easyfitness.app-main-55:/drawable-xxxhdpi/ic_arm.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_round_corner_button.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/round_corner_button.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_check_active.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_check_active.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable-xxxhdpi_ic_leg.png.flat",
+        "source": "com.easyfitness.app-main-55:/drawable-xxxhdpi/ic_leg.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_calorie_spinner_dropdown.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/calorie_spinner_dropdown.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable-xxxhdpi_ic_thigh_measure.png.flat",
+        "source": "com.easyfitness.app-main-55:/drawable-xxxhdpi/ic_thigh_measure.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_star.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_graph_markerview.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/graph_markerview.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_simplemachinelist_row.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/simplemachinelist_row.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.easyfitness.app-main-55:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_fitness_center.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_fitness_center.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.easyfitness.app-main-55:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_replay_green.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_replay_green.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_ruler.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_ruler.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_bodymeasure_row.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/bodymeasure_row.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_random_white.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_random_white.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_stop.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_stop.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_library_music.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_library_music.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_content_copy.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_content_copy.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_check_inactive.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_check_inactive.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_tab_progress_images.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/tab_progress_images.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_timer.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_timer.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_cross_active.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_cross_active.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.easyfitness.app-main-55:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_dialog_value_editor.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/dialog_value_editor.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_custom_drawer_item.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/custom_drawer_item.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_star_border.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_star_border.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_tab_fontes.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/tab_fontes.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable-xhdpi_group_hi_res_512.png.flat",
+        "source": "com.easyfitness.app-main-55:/drawable-xhdpi/group_hi_res_512.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_random_green.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_random_green.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable-xxxhdpi_ic_chest_measure.png.flat",
+        "source": "com.easyfitness.app-main-55:/drawable-xxxhdpi/ic_chest_measure.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.easyfitness.app-main-55:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_program_pager.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/program_pager.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_fontes_pager.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/fontes_pager.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_time_picker_dialog.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/time_picker_dialog.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_tab_machine.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/tab_machine.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_delete.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/layout_editableinput_view.xml.flat",
+        "source": "com.easyfitness.app-main-55:/layout/editableinput_view.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_play_arrow.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_play_arrow.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_static_50dp.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_static_50dp.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_photo_camera.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_photo_camera.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/xml_provider_paths.xml.flat",
+        "source": "com.easyfitness.app-main-55:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_exercises.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_exercises.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable_ic_expand_less.xml.flat",
+        "source": "com.easyfitness.app-main-55:/drawable/ic_expand_less.xml"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable-xxxhdpi_ic_neck.png.flat",
+        "source": "com.easyfitness.app-main-55:/drawable-xxxhdpi/ic_neck.png"
+    },
+    {
+        "merged": "com.easyfitness.app-debug-53:/drawable-xhdpi_marker2.png.flat",
+        "source": "com.easyfitness.app-main-55:/drawable-xhdpi/marker2.png"
+    }
+]

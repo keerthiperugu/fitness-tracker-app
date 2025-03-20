@@ -1,0 +1,2 @@
+com.easyfitness.debug.test:string/app_name = 0x7f020000
+com.easyfitness.debug.test:bool/FIREBASE_CRASH_ENABLED = 0x7f010000
